@@ -27,7 +27,6 @@ static SearchDataTool *sd;
     self.query = [AVQuery queryWithClassName:@"postStuff"];
     [_query selectKeys:@[@"title", @"sid"]];
     [_query whereKey:@"title" containsString:keyWord];
-    _query.limit = 20;
     [_query findObjectsInBackgroundWithBlock:^(NSArray *objects, NSError *error) {
         if (!error) {
             // 检索成功

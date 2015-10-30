@@ -52,7 +52,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     self.comdataArr = [NSMutableArray array];
-    self.my.contentSize = CGSizeMake(self.my.bounds.size.width, self.my.bounds.size.height * 2.2);
+    self.my.contentSize = CGSizeMake(self.my.bounds.size.width, self.my.titleImage.size.height + self.my.backImage1.size.height * 2 + 40);
     
     
     
