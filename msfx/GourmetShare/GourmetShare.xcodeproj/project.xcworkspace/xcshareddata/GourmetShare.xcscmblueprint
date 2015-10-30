@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "F2FE936F1B24D57D637162EBEC22D7C141512009",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "89FB014616EC106CD077E67C20D7C8D43B7A6C6B" : 0,
+    "81F3067DC3D615A7D1005028C859FC0488779551" : 0,
+    "F2FE936F1B24D57D637162EBEC22D7C141512009" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "FB3AF21D-EA44-4ADE-9AFB-602D7F76CDEE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "89FB014616EC106CD077E67C20D7C8D43B7A6C6B" : "GourmentShare",
+    "81F3067DC3D615A7D1005028C859FC0488779551" : "",
+    "F2FE936F1B24D57D637162EBEC22D7C141512009" : "Gourmet\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "GourmetShare",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "GourmetShare\/GourmetShare.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/JANG123\/Food.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "81F3067DC3D615A7D1005028C859FC0488779551"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/JANG123\/GourmetShare.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "89FB014616EC106CD077E67C20D7C8D43B7A6C6B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/JANG123\/Gourmet.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F2FE936F1B24D57D637162EBEC22D7C141512009"
+    }
+  ]
+}
